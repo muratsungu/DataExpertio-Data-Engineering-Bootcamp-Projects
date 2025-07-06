@@ -14,4 +14,4 @@ Wherever possible, I’ve added inline comments to highlight my own contribution
 
 You can find additional resources and materials related to the bootcamp at the link below:
 
-[🔗 Bootcamp Resources](#) [<!-- Replace with actual link when available -->](https://github.com/DataExpert-io/data-engineer-handbook/tree/main/bootcamp)
+[🔗 Bootcamp Resources](#) [<!-- Replace with actual link when available -->](https://github.com/DataExpert-io/data-engineer-handbook)
